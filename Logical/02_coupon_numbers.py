@@ -1,6 +1,6 @@
 import random
 
-def generate_random_coupon(n):
+def generate_random_coupon (n):
     return random.randint(1, n)
 
 def collect_all_coupons(n):
